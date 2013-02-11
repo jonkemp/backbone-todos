@@ -1,0 +1,1 @@
+This is a single page Todo app. The code is from the tutorial in Backbone Fundamentals by Addy Osmani.
